@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lucian 👋
 
-<!--
-**GLLucian/GLLucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student & Aspiring Web Developer**  
+I’m currently learning web development and building various projects to improve my skills in **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- Responsive Web Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+I’m creating small websites, landing pages, and mini apps to showcase what I can do. Check out my repositories to see my progress.
+
+## 📫 Contact Me
+- Phone: 060357075
+- Email: grigorelucian94@gmail.com
